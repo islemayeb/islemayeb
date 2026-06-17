@@ -6,7 +6,7 @@ Beyond the technical side, I’ve spent significant time in student leadership m
 
 ---
 
-### What I Work With
+### Skills
 
 * **Data & Analytics:** Python (pandas, scikit-learn), R, SQL, Clustering & Data Mining
 * **Finance & Stats:** Econometric Modeling, Time Series Forecasting, Corporate Finance & Ratio Analysis
@@ -14,7 +14,7 @@ Beyond the technical side, I’ve spent significant time in student leadership m
 
 ---
 
-### Projects I've Built
+### Projects
 
 * **[Project Name 1: e.g., Corporate Social Responsibility Study]**
   * Conducted a CSR study using [mention software/tools] to analyze corporate impact and market sentiment.
@@ -33,7 +33,7 @@ Beyond the technical side, I’ve spent significant time in student leadership m
 
 ---
 
-### 📫 Connect with me
+### Connects
 
 * **LinkedIn:** [linkedin.com/in/islem-ayeb-973011295]
 * **Email:** [islemayeb55@gmail.com]
