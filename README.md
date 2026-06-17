@@ -16,11 +16,11 @@ Beyond the technical side, I’ve spent significant time in student leadership m
 
 ### Projects
 
-* **[Project Name 1: e.g., Corporate Social Responsibility Study]**
+* **[Corporate Social Responsibility Study]**
   * Conducted a CSR study using [mention software/tools] to analyze corporate impact and market sentiment.
-* **[Project Name 2: e.g., Corporate Financial Performance Evaluation]**
+* **[Corporate Financial Performance Evaluation]**
   * Analyzed financial metrics, liquidity risks, and asset turnover ratios for major listings, including NVIDIA and local exchange entities.
-* **[Project Name 3: e.g., Econometric Time Series Forecasting]**
+* **[Econometric Time Series Forecasting]**
   * Built advanced econometric models to forecast market trends and evaluate variable dependencies using R.
 
 ---
